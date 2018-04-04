@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangshan/Documents/codelab/android/nagvigator/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/yangshan/Documents/codelab/android/nagvigator/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/yangshan/Documents/codelab/android/nagvigator/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yangshan/Documents/codelab/android/nagvigator/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]
